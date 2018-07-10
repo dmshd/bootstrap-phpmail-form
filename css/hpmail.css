@@ -1,0 +1,22 @@
+// HackersPoulette Mail via HckersPoulette form
+
+@font-face {
+    font-family: 'bellotabold';
+    css/fonts/bellota_bold_macroman
+    src: url('fonts/bellota_bold_macroman/Bellota-Bold-webfont.eot');
+    src: url('fonts/bellota_bold_macroman/Bellota-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/bellota_bold_macroman/Bellota-Bold-webfont.woff2') format('woff2'),
+         url('fonts/bellota_bold_macroman/Bellota-Bold-webfont.woff') format('woff'),
+         url('fonts/bellota_bold_macroman/Bellota-Bold-webfont.ttf') format('truetype'),
+         url('fonts/bellota_bold_macroman/Bellota-Bold-webfont.svg#bellotabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+h1 {
+  font-family: 'bellotabold';
+  color: #15c5bd;
+}
+body {
+  line-height: 0.5em;
+}
